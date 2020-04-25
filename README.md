@@ -14,6 +14,32 @@ The tweets can be scrapped using the following command
 ```
 twint -s [keyword] --since [Date] -o [filename.csv] --csv
 ```
+## Results and Visualization
+<p align="center">
+  <img width="450" height="375" src="vis/result1.png">
+</p>
+<b/>
+<b/>
+<p align="center">
+  <img width="450" height="375" src="vis/result2.png">
+</p>
+<b/>
+<b/>
+<p align="center">
+  <img width="450" height="375" src="vis/result3.png">
+</p>
+<b/>
+<b/>
+<p align="center">
+  <img width="450" height="375" src="vis/result5.png">
+</p>
+<b/>
+<b/>
+<p align="center">
+  <img width="450" height="375" src="vis/result4.png">
+</p>
+
+
 ## References
 for more information on twint commands, refer to [this page](https://jakecreps.com/2019/06/25/twint/)
 
