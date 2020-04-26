@@ -1,7 +1,6 @@
 # Depression Detection in Tweets
 ## Overview
-The project is based on Sentiment Analysis. Sentiment Analysis is used to classify text to a class. This project is an example of binary classification which classifies whether the twitter user is depressed based on a tweet post. It utilizes a statistical technique called TF-IDF (Term frequency-Inverse Document frequency) that evaluates how relevant a word is to a document(sentence) in a corpus(collection of documents). 
-. Various Machine Learning algorithms are employed to construct a classifier.The Linear SVM achieved the highest accuracy
+The project is based on Sentiment Analysis. Sentiment Analysis is used to classify text to a class. This project is an example of binary classification which classifies whether the twitter user is depressed based on a tweet post. It utilizes a statistical technique called TF-IDF (Term frequency-Inverse Document frequency) that evaluates how relevant a word is to a document(sentence) in a corpus(collection of documents). Various Machine Learning algorithms are employed to construct a classifier.The Linear SVM achieved the highest accuracy
 of 99.6% on test set.
 
 ## Dataset
@@ -44,3 +43,5 @@ twint -s [keyword] --since [Date] -o [filename.csv] --csv
 for more information on twint commands, refer to [this page](https://jakecreps.com/2019/06/25/twint/)
 
 https://www.kaggle.com/kazanova/sentiment140
+
+To learn more about TD-IDF click [here](https://monkeylearn.com/blog/what-is-tf-idf/)
